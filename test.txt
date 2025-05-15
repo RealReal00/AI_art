@@ -1,1 +1,1 @@
-Ciao!
+https://code.visualstudio.com/docs/python/environments#_creating-environments
